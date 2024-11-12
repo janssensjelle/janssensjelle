@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+[![janssensjelle's github stats](https://github-readme-stats.vercel.app/api?username=janssensjelle&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/janssensjelle)
 <!--START_SECTION:waka-->
 
 ```rust
