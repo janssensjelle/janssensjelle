@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update my readme
 
 on:
   # for manual workflow trigger
@@ -38,3 +38,11 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           # you can populate email-id with secrets instead
+  update-badges:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
