@@ -24,4 +24,7 @@ No activity tracked
 
 ## My certifications
 <!--START_SECTION:badges-->
+[![Hack The Box Certified Bug Bounty Hunter (HTB CBBH)](https://images.credly.com/size/110x110/images/24af3283-ed59-422b-a29c-c274b4df55d8/image.png)](http://www.credly.com/badges/34224e17-635d-4c81-bdbd-cf3b67e069fc "Hack The Box Certified Bug Bounty Hunter (HTB CBBH)")
+[![Adobe Certified Expert-Adobe Commerce Business Practitioner](https://images.credly.com/size/110x110/images/a231bf01-ad5b-4dc1-a4bb-af4b6963a477/Adobe_Certified_Expert_Experience_Cloud_products_Digital_Badge.png)](http://www.credly.com/badges/18fe9d44-0fb4-4de2-9daf-9f894714d06f "Adobe Certified Expert-Adobe Commerce Business Practitioner")
+[![Adobe Certified Professional—Adobe Commerce Developer](https://images.credly.com/size/110x110/images/48e73336-c91d-477f-a66f-3ad950acb597/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png)](http://www.credly.com/badges/fa299769-e7f5-4272-947f-bd7a589df7f7 "Adobe Certified Professional—Adobe Commerce Developer")
 <!--END_SECTION:badges-->
