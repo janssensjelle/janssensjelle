@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-
+## About me
 - 🔭 I’m currently working on improving myself and my coding skills
 - 🌱 I’m currently learning web app security
 - 😄 Pronouns: he/him
@@ -22,6 +22,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-My certifications
+## My certifications
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
