@@ -20,3 +20,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+My certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
