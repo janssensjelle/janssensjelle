@@ -8,7 +8,7 @@
 
 
 
-[![janssensjelle's github stats](https://github-readme-stats.vercel.app/api?username=janssensjelle&count_private=true&show_icons=true&hide=stars&theme=gruvbox&&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/janssensjelle)
+[![janssensjelle's github stats](https://github-readme-stats-snowy-one-28.vercel.app/api?username=janssensjelle&count_private=true&show_icons=true&hide=stars&theme=gruvbox&&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/janssensjelle)
 <!--START_SECTION:waka-->
 
 ```rust
