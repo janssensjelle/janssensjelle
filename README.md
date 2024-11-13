@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on improving myself and my coding skills
-- 🌱 I’m currently learning web app securkty
+- 🌱 I’m currently learning web app security
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I broke my colar bone after joking about breaking bones on a skiing trip.  
 
