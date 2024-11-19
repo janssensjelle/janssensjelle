@@ -9,25 +9,7 @@
 
 
 [![janssensjelle's github stats](https://github-readme-stats-snowy-one-28.vercel.app/api?username=janssensjelle&count_private=true&show_icons=true&hide=stars&theme=gruvbox&&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/janssensjelle)
-<!--START_SECTION:waka-->
 
-```rust
-From: 11 November 2024 - To: 18 November 2024
-
-Total Time: 10 hrs 36 mins
-
-PHP                4 hrs 28 mins   >>>>>>>>>>>--------------   42.13 %
-Python             4 hrs 13 mins   >>>>>>>>>>---------------   39.80 %
-Text               22 mins         >------------------------   03.60 %
-Markdown           18 mins         >------------------------   02.85 %
-INI                12 mins         -------------------------   01.93 %
-.env file          8 mins          -------------------------   01.28 %
-JavaScript         6 mins          -------------------------   01.09 %
-Bash               4 mins          -------------------------   00.71 %
-SQL                2 mins          -------------------------   00.45 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ## My certifications
