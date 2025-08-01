@@ -14,6 +14,7 @@
 
 ## My certifications
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/5568e57a-9352-4f87-b2f6-c7c0602968a3" title="Hack The Box Certified Penetration Testing Specialist (HTB CPTS)"><img src="https://images.credly.com/size/80x80/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="Hack The Box Certified Penetration Testing Specialist (HTB CPTS)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/dc91b43e-ab61-4bd8-b7b9-8c7d95cdbcaf" title="HTB Certified Web Exploitation Expert (HTB CWEE)"><img src="https://images.credly.com/size/80x80/images/c2e161cc-be63-4591-9683-d4ee73edd31f/image.png" alt="HTB Certified Web Exploitation Expert (HTB CWEE)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ee1c1000-4de9-4624-8b42-0582878f6d3b" title="API Security Fundamentals (2 hours)"><img src="https://images.credly.com/size/80x80/images/4f17161c-0357-416f-8507-04f4517b1c2f/image.png" alt="API Security Fundamentals (2 hours)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/34224e17-635d-4c81-bdbd-cf3b67e069fc" title="Hack The Box Certified Bug Bounty Hunter (HTB CBBH)"><img src="https://images.credly.com/size/80x80/images/24af3283-ed59-422b-a29c-c274b4df55d8/image.png" alt="Hack The Box Certified Bug Bounty Hunter (HTB CBBH)" width="80" height="80"></a>
